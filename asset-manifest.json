@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gowtham21062004/Studentedu-Tracker-system-/static/css/main.7d35247d.css",
+    "main.js": "/Gowtham21062004/Studentedu-Tracker-system-/static/js/main.f046a34e.js",
+    "static/js/453.5bc87fff.chunk.js": "/Gowtham21062004/Studentedu-Tracker-system-/static/js/453.5bc87fff.chunk.js",
+    "index.html": "/Gowtham21062004/Studentedu-Tracker-system-/index.html",
+    "main.7d35247d.css.map": "/Gowtham21062004/Studentedu-Tracker-system-/static/css/main.7d35247d.css.map",
+    "main.f046a34e.js.map": "/Gowtham21062004/Studentedu-Tracker-system-/static/js/main.f046a34e.js.map",
+    "453.5bc87fff.chunk.js.map": "/Gowtham21062004/Studentedu-Tracker-system-/static/js/453.5bc87fff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d35247d.css",
+    "static/js/main.f046a34e.js"
+  ]
+}
